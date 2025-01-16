@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "portfolio-ef9a6",
+    "staging": "portfolio-ef9a6"
+  },
+  "targets": {},
+  "etags": {}
+}
